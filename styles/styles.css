@@ -1,5 +1,16 @@
-h1 {
+/*h1 {
   font-family: Optima, Arial, sans-serif;
   color: black;
-  /*background-color:#003399;*/
+}*/
+
+#menu {
+  margin-bottom: 100px;
+}
+
+footer{
+  text-align: center;
+  position: fixed;
+  bottom:0px;
+  height:30px;
+  width:100%;
 }
